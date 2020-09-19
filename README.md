@@ -2,11 +2,11 @@
 ## Performing analysis on Kickstarter data to uncover trends
 An analysis on Kickstarter data was accomplished to help an up and coming playwright, Louise, set up a crowdfunding campaign of her own for her play, Fever.  Louise intends to produce this play in the U.S.  The data used covered a span of about eight years.  At a quick glance, we see that Theater campaigns are popular in Kickstarter in the United States.
 ---
-![Parent_Category_Outcomes](C:\Users\annab\OneDrive\Desktop\Analysis Projects\Crowdfunding Analysis\Parent_Category_Outcomes.png)
+![Parent_Category_Outcomes](https://github.com/ABonuan/kickstarter-analysis/blob/master/Parent%20Category%20Outcomes.png)
 ---
 Let’s dive a little deeper.  There was a total of 912 Theater campaigns, and out of that, there were 671 campaigns for Plays specifically.  About 60% of the Plays campaigns were successful.  Most of the successful Play campaigns were launched between the 2nd and 3rd quarters of the year, specifically between May through August.
 ---
-![Outcomes_Based_on_Launch_Date](C:\Users\annab\OneDrive\Desktop\Analysis Projects\Crowdfunding Analysis\Outcomes_Based_on_Launch_Date.png)
+![Outcomes_Based_on_Launch_Date](https://github.com/ABonuan/kickstarter-analysis/blob/master/Outcomes%20Based%20on%20Launch%20Date.png)
 ---
 The data also shows that 75% Successful campaigns had a goal of $5,000 or less, while 75% of the Failed campaigns had a goal of $10,000 or less.  This means that most successful campaigns did not set goals of over $5,000.
 ---
